@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JDK_learn.iml" filepath="$PROJECT_DIR$/JDK_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/mbean/mbean.iml" filepath="$PROJECT_DIR$/mbean/mbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vm/vm.iml" filepath="$PROJECT_DIR$/vm/vm.iml" />
     </modules>
   </component>
 </project>
